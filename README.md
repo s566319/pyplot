@@ -1,3 +1,6 @@
+# Student: Inga Miller
+
+
 # Matplotlib and pyplot
 
 Complete the tasks in the Python Notebook in this repository.
