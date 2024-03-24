@@ -1,4 +1,6 @@
 # Student: Inga Miller
+# Repository Link: https://github.com/s566319/pyplot
+# GitHub: https://github.com/s566319
 
 
 # Matplotlib and pyplot
